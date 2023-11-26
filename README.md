@@ -6,12 +6,10 @@ To write a python program to find the distance two 2 points
 start the program
 ### Step 2:
 calculate the matrix 
-
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 python run with the formula
-
 ### Step 5: 
 end the program
 ### PROGRAM:
@@ -27,8 +25,8 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-
 ![Uploading distance.png…]()
+
 
 
 
