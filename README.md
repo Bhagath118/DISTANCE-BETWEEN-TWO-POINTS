@@ -25,7 +25,9 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-![Uploading distance.png…]()
+![output](/)![Uploading Screenshot 2023-11-26 213711.png…]()
+
+
 
 
 
