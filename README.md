@@ -28,7 +28,8 @@ print(round(dis,2))
 
 ### OUTPUT:
 
-![output](/distance.png)
+![Uploading distance.png…]()
+
 
 
 ### RESULT:
